@@ -1,0 +1,17 @@
+"use strict";
+console.log('Hola Platzi');
+var phone;
+phone = 79867986;
+var phoneNumber = 6875858;
+var hex = 0xf00d;
+var binary = 42;
+var octal = 28535;
+var isPro;
+isPro = true;
+var isUserPro = false;
+isUserPro = true;
+var username = 'Byron';
+username = 'Pedro';
+var userInfo;
+userInfo = "\n    User Info\n    username: " + username + "\n    firstName: " + (username + ' Cueva') + "\n    phone: " + phone + "\n    isPro: " + isPro + "\n";
+console.log('userInfo', userInfo);

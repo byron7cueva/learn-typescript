@@ -268,5 +268,5 @@ export interface Player {
     weight: number;
     height: number;
     nationality: Countries;
-    leftFood: boolean;
+    leftFooted: boolean;
 }

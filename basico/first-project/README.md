@@ -36,3 +36,12 @@ ng new nombre_proyecto
 ng generate service nombre
 ```
 
+### Generar un componente
+```bash
+ng g component nombre
+```
+
+### Compilacion completa
+```bash
+ng serve --aot
+```

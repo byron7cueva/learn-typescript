@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "module-ts-use"
+		},
+		{
+			"path": "module-ts-publish"
 		}
 	],
 	"settings": {}

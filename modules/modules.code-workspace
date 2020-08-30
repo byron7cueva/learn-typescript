@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "module-ts-publish"
+		},
+		{
+			"path": "module-cjs"
+		},
+		{
+			"path": "module-cjs-use"
 		}
 	],
 	"settings": {}

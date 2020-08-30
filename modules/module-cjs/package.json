@@ -1,16 +1,14 @@
 {
-  "name": "module-ts-publish",
+  "name": "module-cjs",
   "version": "0.1.0",
   "license": "MIT",
-  "main": "dist/cjs/index.js",
-  "module": "dist/index.js",
-  "typings": "types/index.d.ts",
+  "private": true,
+  "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": ["dist"],
   "scripts": {
     "start": "tsc && node dist/index.js",
-    "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
-    "prepublish": "npm run build"
+    "build": "tsc -p tsconfig.json"
   },
   "devDependencies": {
     "tslint": "^6.1.3",

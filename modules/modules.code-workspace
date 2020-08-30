@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "module-cjs-use"
+		},
+		{
+			"path": "docs"
 		}
 	],
 	"settings": {}

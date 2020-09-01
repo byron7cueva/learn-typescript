@@ -2,13 +2,18 @@
 	"folders": [
 		{
 			"path": "proj-domain"
+		},
+		{
+			"path": "proj-application"
+		},
+		{
+			"path": "proj-common"
 		}
 	],
 	"settings": {
 		"files.exclude": {
 			"node_modules/": true,
-			"dist/": true,
-			"types/": true
+			//"dist/": true,
 		}
 	}
 }

@@ -1,0 +1,12 @@
+{
+  "name": "proj-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "proj-common": "link:../proj-common"
+  },
+  "dependencies": {
+    "proj-domain": "link:../proj-domain"
+  }
+}

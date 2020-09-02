@@ -8,12 +8,15 @@
 		},
 		{
 			"path": "proj-common"
+		},
+		{
+			"path": "proj-gateway"
 		}
 	],
 	"settings": {
 		"files.exclude": {
 			"node_modules/": true,
-			//"dist/": true,
+			"dist/": true
 		}
 	}
 }
